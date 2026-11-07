@@ -30,14 +30,14 @@ Cooldowns are base values before item modifiers. Damage percentages are relative
 
 | Slot | Skill | Description | Cooldown |
 | --- | --- | --- | --- |
-| Primary | **Whirling Death** | Cut enemies within 10m for **340% damage**, gaining another **30%** per m/s above 7. Deal an additional **13% of the target's maximum health**, reduced to **5% against bosses**. Attack speed reduces its 4s cooldown.  4s |
-| Primary | **Exposure Therapy** | Replace momentum scaling with **100% additional damage per extra target**, with no target limit. Keep the maximum-health damage and heal **2.5% of your maximum health per enemy damaged**.  4s |
-| Secondary | **Reactive Armor** | Enemy hits build up to **40 stacks**, each granting **3 armor** and regeneration. Activate to gain full stacks and **25% barrier** for 6s. Nearby enemies replenish the barrier. Breaking or expiring consumes it in a **200%–2000% damage** explosion.  18s |
-| Secondary | **Flamethrower** | Replace Reactive Armor with an **8s**, 14m cone of fire dealing **240% damage per second**, igniting enemies and slowing them by **40%**. Other skills remain available.  18s |
-| Utility | **Timber Chain** | Latch onto terrain or an enemy within **45m**, scaling with movement speed, and pull yourself toward it, dealing **400% damage** along the way. A missed chain has a **1s cooldown**. Pull speed starts at **30 m/s** and gains **50%** of movement-speed bonuses.  4s |
-| Utility | **Jetpack** | Fly for **10s**, starting at sprint speed and gaining **0% to 200% additional speed** over the flight. **18s cooldown**. Steer with your aim, hold Jump to rise, and hold Sprint to descend. Use other skills while airborne.  18s |
-| Special | **Chakram** | Hold to aim and release a **6m-radius** blade for **600% damage**. It stops at the previewed destination for **150% damage every 0.5s**. Press again to recall it for another **600% damage**.  8s |
-| Special | **Twisted Chakram** | Hold to preview, then release a **6m-radius** blade through a crossing, three-dimensional path for **1000% damage per pass**. Each enemy can be hit once outward and once on return. The blade returns automatically.  8s |
+| Primary | **Whirling Death** | Cut enemies within 10m for **340% damage**, gaining another **30%** per m/s above 7. Deal an additional **13% of the target's maximum health**, reduced to **5% against bosses**. Attack speed reduces its 4s cooldown. | 4s |
+| Primary | **Exposure Therapy** | Replace momentum scaling with **100% additional damage per extra target**, with no target limit. Keep the maximum-health damage and heal **2.5% of your maximum health per enemy damaged**. | 4s |
+| Secondary | **Reactive Armor** | Enemy hits build up to **40 stacks**, each granting **3 armor** and regeneration. Activate to gain full stacks and **25% barrier** for 6s. Nearby enemies replenish the barrier. Breaking or expiring consumes it in a **200%–2000% damage** explosion. | 18s |
+| Secondary | **Flamethrower** | Replace Reactive Armor with an **8s**, 14m cone of fire dealing **240% damage per second**, igniting enemies and slowing them by **40%**. Other skills remain available. | 18s |
+| Utility | **Timber Chain** | Latch onto terrain or an enemy within **45m**, scaling with movement speed, and pull yourself toward it, dealing **400% damage** along the way. A missed chain has a **1s cooldown**. Pull speed starts at **30 m/s** and gains **50%** of movement-speed bonuses. | 4s |
+| Utility | **Jetpack** | Fly for **10s**, starting at sprint speed and gaining **0% to 200% additional speed** over the flight. **18s cooldown**. Steer with your aim, hold Jump to rise, and hold Sprint to descend. Use other skills while airborne. | 18s |
+| Special | **Chakram** | Hold to aim and release a **6m-radius** blade for **600% damage**. It stops at the previewed destination for **150% damage every 0.5s**. Press again to recall it for another **600% damage**. | 8s |
+| Special | **Twisted Chakram** | Hold to preview, then release a **6m-radius** blade through a crossing, three-dimensional path for **1000% damage per pass**. Each enemy can be hit once outward and once on return. The blade returns automatically. | 8s |
 
 **Sawing:** Both Chakrams slow enemies, including bosses, by **5%–100%** based on missing health. Chakram and Flamethrower slows linger for **2s**. Shiva's Guard does not slow bosses.
 
